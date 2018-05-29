@@ -23,21 +23,21 @@ And repeat
 until finished
 End with an example of getting some data out of the system or using it for a little demo
 
-Built With
+# Built With
 Dropwizard - The web framework used
 Maven - Dependency Management
 ROME - Used to generate RSS Feeds
 
-Contributing
+# Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-Authors
+# Authors
 Tom Edwards
 
-License
+# License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
 
-Acknowledgments
+# Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration
 etc
