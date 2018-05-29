@@ -26,14 +26,11 @@ End with an example of getting some data out of the system or using it for a lit
 # Built With
 [AutoHotkey](https://autohotkey.com/)
 
-# Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
 # Authors
 Tom Edwards
 
 # License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/tomelabs/Horizon-borrower-validator/blob/master/LICENSE) file for details
 
 # Acknowledgments
 Hat tip to anyone whose code was used
