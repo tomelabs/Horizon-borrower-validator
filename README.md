@@ -24,7 +24,7 @@ until finished
 End with an example of getting some data out of the system or using it for a little demo
 
 # Built With
-[Autohotkey|https://autohotkey.com/]
+[https://autohotkey.com/|AutoHotkey]
 
 # Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
