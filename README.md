@@ -1,5 +1,5 @@
 # Horizon-borrower-validator
-A tool to augment the Horizon Library Management System (by SirsiDynix) Borrower editing process. The intent is to aid staff users in the data entry/validation process to reduce errors and formatting issues.
+A tool to augment the Horizon Library Management System (by SirsiDynix) Borrower editing process. The intent is to aid staff users in data entry/validation to reduce errors and formatting issues.
 
 # Disclaimer
 This project is not affiliated with or endorsed in any way by Sirsi Corporation.
