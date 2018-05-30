@@ -26,6 +26,7 @@ It is recommended that users download [AutoHotkey](https://autohotkey.com/) if t
 * Download the Horizon_Borrower_Validator folder and unzip
 * Edit the .ini file to suit your needs
 * Run the .exe file and test (or make edits to the .ahk file, compile it and then run your own version)
+* For long term usage, consider running the executable on startup
 
 # Built With
 * [AutoHotkey](https://autohotkey.com/)
