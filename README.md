@@ -3,7 +3,7 @@
 A tool to augment the Borrower editing process for the Horizon Library Management System (by [SirsiDynix](http://www.sirsidynix.com/)). 
 
 The catalyst for creating this tool was a high incidence of incorrect data relating to Borrower records at the Library I work for. There are several causes for this, eg:
-* Human error - the Borrower registration and validation process is probably the most complicated process that frontline staff are required to complete on the Horizon staff client. Understandably, there are frequent occurrences of misspelled works or syntax that hasn't been fixed/entered correctly.
+* Human error - the Borrower registration and validation process is probably the most complicated process that frontline staff are required to complete on the Horizon staff client. Understandably, there are frequent occurrences of misspelled words or syntax that hasn't been fixed/entered correctly.
 * A lack of built-in validation on the Library Management System client - Horizon has a lot of free text fields, with little in the way of validation to ensure data has been entered correctly, eg. 
    * correct Title case used in Address fields, 
    * use of commas in borrower names, 
