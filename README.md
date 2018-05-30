@@ -19,7 +19,7 @@ This tool assumes you have the following:
 * A Microsoft Windows operating system
 * A SirsiDynix Horizon java client (tested on 7.5.2.x)
 
-It is recommended that users download [autohotkey](https://autohotkey.com/) if they wish to make adjustments to the script and recompile the .exe of the tool for their own local needs.
+It is recommended that users download [AutoHotkey](https://autohotkey.com/) if they wish to make adjustments to the script and recompile the .exe of the tool for their own local needs.
 
 ## Installing
 
