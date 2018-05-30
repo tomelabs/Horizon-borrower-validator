@@ -4,9 +4,9 @@ A tool to augment the Horizon Library Management System (by [SirsiDynix](http://
 The catalyst for creating this tool is a high incidence of incorrect data relating to borrower records at the Library I work for. There are several causes for this, eg:
 * Human error - the Borrower registration and validation process is probably the most complicated process that frontline staff are required to complete on the Horizon staff client. Understandably, there are frequent occurrences of misspelled works or syntax that hasn't been fixed/entered correctly.
 * A lack of built-in validation on the Library Management System client - Horizon has a lot of free text fields, with little in the way of validation to ensure data has been entered correctly, eg. 
-** correct Title case used in Address fields, 
-** use of commas in borrower names, 
-** checking that email address looks valid
+* * correct Title case used in Address fields, 
+* * use of commas in borrower names, 
+* * checking that email address looks valid
 
 The intent is to aid staff users in data entry/validation to reduce errors and formatting issues. This is achieved by introducing a GUI overlay when the "Edit: Borrowers" screen is active in the Horizon staff client. This GUI guides the staff member through the process of ensuring the data in each field is clean and entered in the correct syntax and punctuation.
 
