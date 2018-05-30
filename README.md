@@ -1,4 +1,5 @@
 # Horizon Borrower Validator
+## Version 0.1
 A tool to augment the Horizon Library Management System (by [SirsiDynix](http://www.sirsidynix.com/)) Borrower editing process. 
 
 The catalyst for creating this tool is a high incidence of incorrect data relating to borrower records at the Library I work for. There are several causes for this, eg:
