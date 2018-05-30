@@ -14,36 +14,25 @@ The intent is to aid staff users in data entry/validation to reduce errors and f
 # Disclaimer
 This project is not affiliated with or endorsed in any way by Sirsi Corporation.
 
-# Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ## Prerequisites
-What things you need to install the software and how to install them
+This tool assumes you have the following:
+* A Microsoft Windows operating system
+* A SirsiDynix Horizon java client (tested on 7.5.2.x)
 
-Give examples
+It is recommended that users download [autohotkey](https://autohotkey.com/) if they wish to make adjustments to the script and recompile the .exe of the tool for their own local needs.
 
 ## Installing
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+* Download the Horizon_Borrower_Validator folder and unzip
+* Edit the .ini file to suit your needs
+* Run the .exe file and test (or make edits to the .ahk file, compile it and then run your own version)
 
 # Built With
 [AutoHotkey](https://autohotkey.com/)
+A text editor (I prefer [notepad++](https://notepad-plus-plus.org/))
 
 # Authors
 Tom Edwards
 
 # License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/tomelabs/Horizon-borrower-validator/blob/master/LICENSE) file for details
-
-# Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-
