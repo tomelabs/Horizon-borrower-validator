@@ -28,8 +28,8 @@ It is recommended that users download [autohotkey](https://autohotkey.com/) if t
 * Run the .exe file and test (or make edits to the .ahk file, compile it and then run your own version)
 
 # Built With
-[AutoHotkey](https://autohotkey.com/)
-A text editor (I prefer [notepad++](https://notepad-plus-plus.org/))
+* [AutoHotkey](https://autohotkey.com/)
+* A text editor (I prefer [notepad++](https://notepad-plus-plus.org/))
 
 # Authors
 Tom Edwards
