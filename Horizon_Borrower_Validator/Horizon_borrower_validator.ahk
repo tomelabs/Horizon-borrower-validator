@@ -26,7 +26,14 @@ ControlGetText, BorrowerName , Edit5, Borrowers]
 Comma := ","
 If Not InStr(BorrowerName, Comma)
 {
-    MsgBox, 4112, %VersionInfo%, The Borrower Name field isn't correct, it needs a comma in it. `nPlease fix this, then click OK.
+    MsgBox, 4112, %VersionInfo%, The Name field isn't correct, it needs a comma in it. `nPlease fix this, then click OK.
+}
+
+;This tells me what's in the bstat code drop down
+ControlGet, BstatCodes, List,, ComboBox3, Borrowers]
+{
+Loop, Parse, BstatCodes, `n
+    MsgBox, 4112, %VersionInfo%, MsgBox Item number %A_Index% is %A_LoopField%.
 }
 
 WinWaitNotActive, Borrowers]
